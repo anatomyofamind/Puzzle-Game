@@ -1,0 +1,17 @@
+.tile {
+	color: white;
+	border: 1px solid black;
+	display: inline-block;
+	margin: 2px;
+	background-color: LightGray;
+	text-align: center;
+	width: 10px;
+	height: 10px;
+	position: absolute;
+}
+
+body {
+	overflow: hidden;
+	margin: 0px;
+	background-color: grey;
+}
